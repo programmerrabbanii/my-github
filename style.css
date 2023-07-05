@@ -3,3 +3,10 @@ div{
     padding: 30px;
     border: 2px solid blue;
 }
+.bannar{
+    background-image: url(./img/about.jpg);
+    padding: 250px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
